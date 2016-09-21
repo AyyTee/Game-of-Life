@@ -1,0 +1,8 @@
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\bin\Debug\GameOfLife.exe
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\bin\Debug\GameOfLife.pdb
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Martin\documents\visual studio 2015\Projects\GameOfLife\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
