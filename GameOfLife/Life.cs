@@ -41,7 +41,7 @@ namespace GameOfLife
             {
                 int count = NeighborCount(p);
                 /*Check if a point should be alive.  
-                 * We don't explicitly check the rule for overcrowding */
+                 * We don't explicitly check the rule for overcrowding as cells by default are killed every generation.*/
                 if (count == 3)
                 {
                     next.Add(p);
